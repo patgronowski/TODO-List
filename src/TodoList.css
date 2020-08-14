@@ -1,0 +1,14 @@
+.task, .header {
+  background-color: lightblue;
+  width: 1000px;
+  margin: 10px 0px;
+  padding: 10px;
+}
+
+.delete-btn {
+  float: right;
+}
+
+.form > * {
+  margin: 5px;
+}
